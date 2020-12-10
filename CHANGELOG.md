@@ -1,5 +1,9 @@
 # MediaWiki Changelog
 
+## Version 0.7.0
+
+* Removed support for **Python 2.7**
+
 ## Version 0.6.7
 
 * ***NOTE:*** Last planed support for **Python 2.7**

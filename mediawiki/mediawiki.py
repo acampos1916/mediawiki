@@ -4,7 +4,6 @@ MediaWiki class module
 # MIT License
 # Author: Tyler Barrus (barrust@gmail.com)
 
-from __future__ import unicode_literals, absolute_import
 from datetime import datetime, timedelta
 import time
 from decimal import Decimal, DecimalException
@@ -22,7 +21,7 @@ from .mediawikipage import MediaWikiPage
 from .utilities import memoize
 
 URL = "https://github.com/barrust/mediawiki"
-VERSION = "0.6.7"
+VERSION = "0.7.0"
 
 
 class MediaWiki(object):
